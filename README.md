@@ -1,6 +1,6 @@
 <h1 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm JOSH!!</h1>
 
-<h3 align="center">A passionate frontend developer ❤ from India</h3>
+<h3 align="center">A passionate frontend developer ❤ from Taiwan</h3>
 
 <br>
 
