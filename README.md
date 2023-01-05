@@ -18,10 +18,10 @@
 ## <img src="https://karanchandekar.netlify.app/img/karan-wave.png" alt="Portfolio" width="60" align="center"/> About Me
 
 - 🔭 I’m currently working on **improving my skills**
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Python**
 - 👨‍💻 Personal portfolio: **<a href="https://karanchandekar.netlify.app/" target="_blank">Portfolio</a>**
-- 💬 Ask me about **Web, FrontEnd**
-- 📫 How to reach me: **karanchandekar431@gmail.com**
+- 💬 Ask me about **Python programming， PyQt5**
+- 📫 How to reach me: **johssmith0223029@gmail.com**
 - ⚡ Fun fact **I am half finished**
 
 ---
