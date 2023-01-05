@@ -32,7 +32,7 @@
 
 ## 🚀 Languages and Tools
 
-<img align="left" src="https://skillicons.dev/icons?i=python,html,css,git,github,vscode" /> <img align = 'left' src = "https://img.icons8.com/fluency/2x/opencv.png 2x">
+<img align="left" src="https://skillicons.dev/icons?i=python,html,css,git,github,vscode" /> <img align = 'left' srcset = "https://img.icons8.com/fluency/2x/opencv.png 2x">
 
 <br />
 <br />
