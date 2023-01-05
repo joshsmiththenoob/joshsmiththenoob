@@ -9,7 +9,9 @@
 
 <a href="https://ko-fi.com/sciencepal"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="200" height="auto"/> </a>
 
-## <iframe src="https://drive.google.com/file/d/1XUs67fTA-rh-5Mv1OxBwUWYxC6tD2_t6/preview" width="640" height="480" allow="autoplay"></iframe> About Me
+<iframe src="https://drive.google.com/file/d/1XUs67fTA-rh-5Mv1OxBwUWYxC6tD2_t6/preview" width="640" height="480" allow="autoplay"></iframe>
+
+##  About Me
 
 - 🔭 I’m currently working on **improving my skills**
 - 🌱 I’m currently learning **Python**
