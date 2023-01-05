@@ -32,7 +32,7 @@
 
 ## 🚀 Languages and Tools
 
-<img align="left" src="https://skillicons.dev/icons?i=python,html,css,git,github,vscode" /> <img align = 'left' src = "https://opencv.org/wp-content/uploads/2020/07/cropped-OpenCV_logo_white_600x.png">
+<img align="left" src="https://skillicons.dev/icons?i=python,html,css,git,github,vscode" /> <img align = 'left' src = "https://img.icons8.com/fluency/2x/opencv.png 2x">
 
 <br />
 <br />
