@@ -32,7 +32,7 @@
 
 ## 🚀 Languages and Tools
 
-<img align="left" src="https://skillicons.dev/icons?i=python,html,css,git,github,vscode" />
+<img align="left" src="https://skillicons.dev/icons?i=python,html,css,git,github,vscode,mediapipe" />
 
 <br />
 <br />
