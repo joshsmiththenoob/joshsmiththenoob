@@ -11,12 +11,10 @@
 
 
 
-##  <img align="left" src = "https://drive.google.com/file/d/1XUs67fTA-rh-5Mv1OxBwUWYxC6tD2_t6/preview"> </img>About Me
+## 💬 About Me
 
 - 🔭 I’m currently working on **improving my skills**
 - 🌱 I’m currently learning **Python**
-- 👨‍💻 Personal portfolio: **<a href="https://karanchandekar.netlify.app/" target="_blank">Portfolio</a>**
-- 💬 Ask me about **Python programming， PyQt5**
 - 📫 How to reach me: **johssmith0223029@gmail.com**
 - ⚡ Fun fact **I am half finished**
 
@@ -34,7 +32,7 @@
 
 ## 🚀 Languages and Tools
 
-<img align="left" src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,sass,nodejs,express,git,github,vscode" />
+<img align="left" src="https://skillicons.dev/icons?i=python,html,css,git,github,vscode" />
 
 <br />
 <br />
