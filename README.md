@@ -29,7 +29,7 @@
 ## 🔗 Connect with me
 
 <a href="https://twitter.com/karanchandekar1" target="_blank"><img align="left" alt="Karan | Twitter" src="https://skillicons.dev/icons?i=twitter" /></a>
-<a href="[https://www.linkedin.com/in/karan-chandekar-a87263219/](https://www.linkedin.com/in/josh-smith-706891241/)" target="_blank"><img align="left" alt="Karan | LinkedIn" src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://www.linkedin.com/in/josh-smith-706891241" target="_blank"><img align="left" alt="Karan | LinkedIn" src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="https://www.instagram.com/karanchandekar21/" target="_blank"><img align="left" alt="Karan | Instagram" src="https://skillicons.dev/icons?i=instagram" /></a>
 
 <br />
