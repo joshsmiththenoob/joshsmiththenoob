@@ -7,8 +7,6 @@
 
 <br>
 
-<a href="https://ko-fi.com/sciencepal"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="200" height="auto"/> </a>
-
 
 
 ## 💬 About Me
@@ -40,14 +38,14 @@
 
 ## 🔥 My Github Streak
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=karanchandekar&theme=radical&hide_border=true" alt="karanchandekar" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=joshsmiththenoob&theme=radical&hide_border=true" alt="joshsmiththenoob" /></p>
 
 ## 📊 My Github Stats
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=karanchandekar&show_icons=true&locale=en&theme=radical&hide_border=true" alt="karanchandekar" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=karanchandekar&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="karanchandekar" /></td
+    <td><img src="https://github-readme-stats.vercel.app/api?username=joshsmiththenoob&show_icons=true&locale=en&theme=radical&hide_border=true" alt="joshsmiththenoob" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=joshsmiththenoob&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="joshsmiththenoob" /></td
   </tr>
 </table>
 
@@ -55,19 +53,10 @@
     
 <br />
     
-## 🐍 My Github Contribution Graph
 
-![snake gif](https://github.com/KaranChandekar/KaranChandekar/blob/output/github-contribution-grid-snake.svg)
-    
-<br />
-    
-## 🏆 My Github Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=KaranChandekar&theme=radical&row=1&margin-w=20&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-<br />
     
 ## 📈 My Github Activity Graph
-[![Karan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=KaranChandekar&theme=react-dark)](https://github.com/KaranChandekar/github-readme-activity-graph)
+[![Karan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=joshsmiththenoob&theme=react-dark)](https://github.com/KaranChandekar/github-readme-activity-graph)
   
 <br />
     
